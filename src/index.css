@@ -225,7 +225,9 @@ vertical-align: inherit;
 }
 .services{
 display: flex;
+justify-content: center;
 gap: 32px;
+
 }
 .tip{
   display: block;
@@ -234,4 +236,17 @@ gap: 32px;
   text-align: center;
   font-size: 1.2rem;
   color: black;
+}
+
+.staffs{
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+}
+.staff-name{
+  font-weight: bold;
+  text-align: center;
+}
+.position{
+text-align: center;
 }
