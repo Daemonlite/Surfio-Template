@@ -110,7 +110,7 @@ vertical-align: inherit;
   right: 0;
   background-color: #008CBA;
   overflow: hidden;
-  width: 100%;
+  width: 95%;
   height: 0;
   transition: .5s ease;
 }
@@ -280,8 +280,8 @@ width: fit-content;
     display: block;
     margin: 20px;
   }
-  .staff-image{
-    
-  }
+.btns{
+  display: block;
+}
   
 }

@@ -29,6 +29,7 @@ The course of the house, my who would decorate the cartoon, sometimes there was 
 <div className="first-btn">
   DOWNLOAD NOW
 </div>
+<br />
 <div className="second-btn">
   VIEW FEATURES
 </div>

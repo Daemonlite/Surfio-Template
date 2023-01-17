@@ -20,7 +20,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c2fc413566a09e01f711c4_work-9-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">Graphic Design</div>
@@ -31,7 +31,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009bf69ff41454c6fe63_work-2-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">Print Design</div>
@@ -42,7 +42,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b617cac9b64365383_work-1-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">Mobile Apps</div>
@@ -53,7 +53,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b52f6a18001ef67c2_work-3-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">3D Drawing</div>
@@ -66,7 +66,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b52f6a18001ef67c3_work-5-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">Interior Design</div>
@@ -77,7 +77,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b617cac9b64365384_work-4-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">Web Design</div>
@@ -88,7 +88,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009c739f273554ad015b_work-7-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">Graphic Design</div>
@@ -99,7 +99,7 @@ const Section = () => {
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009c617cac9b64365385_work-8-p-500x334.jpeg"
               alt="Avatar"
-              class="staff-image"
+              class="image"
             />
             <div class="overlay">
               <div class="text">Home Design</div>
