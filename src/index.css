@@ -1,0 +1,237 @@
+.site-name{
+  font-size: 30px;
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  gap: 32px;
+  font-size: 20px;
+  margin-top: 40px;
+
+}
+.nav{
+  display: flex;
+ justify-content: space-around;
+ color: white;
+}
+.aside{
+display: grid;
+place-items:center ;
+margin-top: 200px;
+
+}
+.nav-text{
+  width: 850px;
+  color: white;
+}
+.nav-text-2{
+  color: black;
+}
+.btns{
+  display: flex;
+  gap: 32px;
+}
+.first-btn{
+  border: 1px solid #1F75FE;
+  width: 200px;
+  height: 35px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #1F75FE;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.second-btn{
+  border: 1px solid #1F75FE;
+  width: 200px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+}
+.second-btn:hover{
+  transition: .4s;
+  background-color: #1F75FE;
+  color: white
+}
+header{
+  background-image: url('https://images.unsplash.com/photo-1671463352052-ee5ecab56867?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQzfHhIeFlUTUhMZ09jfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+  height: 800px; 
+
+  background-position: center;
+  
+}
+.nav-head{
+  color: white;
+}
+.section{
+  width: 500px;
+  margin-top: 100px;
+vertical-align: inherit;
+  color: darkgray;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.about{
+  display: flex;
+  gap: 32px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.side{
+  display: grid;
+  place-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.about-head{
+  margin-left: 100px;
+}
+.about-img{
+  margin-top: 100px;
+
+}
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.image{
+  width: 300px;
+}
+.portfolio{
+  display: flex;
+  gap: 10px;
+  
+}
+.sec-head{
+  display: grid;
+ place-content: center;
+ margin: 50px;
+}
+.port-head{
+  text-align: center;
+}
+.contact-btn{
+  border: 1px solid #008CBA;
+  border-radius: 6px;
+  width: 140px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 90px;
+}
+.contact-btn:hover{
+  transition: .4s;
+  background-color: #008CBA;
+  color: #fff;
+}
+
+.testimonial{
+  display: grid;
+  place-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* background-image: url('https://plus.unsplash.com/premium_photo-1664372145482-8ae1e368ede4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlicmFyeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  */
+  
+}
+.testimonial-text{
+  width: 700px;
+}
+.testimonial-name{
+  color: cornflowerblue;
+  text-align: center;
+
+}
+.sec-header{
+  text-align: center;
+  font-size: 2rem;
+ 
+}
+.dot-container {
+  text-align: center;
+  padding: 20px;
+  background: #ddd;
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.slideshow-container {
+  position: relative;
+  background: #f1f1f1f1;
+}
+.slides {
+  display: none;
+  padding: 80px;
+  text-align: center;
+}
+.serv-icon{
+  color: #1F75FE;
+}
+.serv-title{
+  font-weight: bold;
+}
+.serv-text{
+  width: 300px;
+  display: flex;
+  font-weight: lighter;
+  font-family:Arial, Helvetica, sans-serif;
+  
+}
+.services{
+display: flex;
+gap: 32px;
+}
+.tip{
+  display: block;
+}
+.sec-para{
+  text-align: center;
+  font-size: 1.2rem;
+  color: black;
+}
