@@ -26,7 +26,7 @@ const Section = () => {
               <div class="text">Graphic Design</div>
             </div>
           </div>
-
+<br />
           <div class="container">
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009bf69ff41454c6fe63_work-2-p-500x334.jpeg"
@@ -37,6 +37,7 @@ const Section = () => {
               <div class="text">Print Design</div>
             </div>
           </div>
+          <br />
           <div class="container">
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b617cac9b64365383_work-1-p-500x334.jpeg"
@@ -47,6 +48,7 @@ const Section = () => {
               <div class="text">Mobile Apps</div>
             </div>
           </div>
+          <br />
           <div class="container">
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b52f6a18001ef67c2_work-3-p-500x334.jpeg"
@@ -70,6 +72,7 @@ const Section = () => {
               <div class="text">Interior Design</div>
             </div>
           </div>
+          <br />
           <div class="container">
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b617cac9b64365384_work-4-p-500x334.jpeg"
@@ -80,6 +83,7 @@ const Section = () => {
               <div class="text">Web Design</div>
             </div>
           </div>
+          <br />
           <div class="container">
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009c739f273554ad015b_work-7-p-500x334.jpeg"
@@ -90,6 +94,7 @@ const Section = () => {
               <div class="text">Graphic Design</div>
             </div>
           </div>
+          <br />
           <div class="container">
             <img
               src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009c617cac9b64365385_work-8-p-500x334.jpeg"

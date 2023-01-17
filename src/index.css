@@ -250,3 +250,38 @@ gap: 32px;
 .position{
 text-align: center;
 }
+
+
+@media (max-width:600px) {
+  ul{
+    display: none;
+  }
+  .about{
+    display: block;
+  }
+  .about-img{
+    width: fit-content;
+  }
+  .portfolio{
+    display: block;
+    width: fit-content;
+  }
+  .overlay{
+    width: 200%;
+  }
+  .services{
+    display: block;
+    margin-left: 100px;
+  }
+  .nav-text{
+width: fit-content;
+  }
+  .staffs{
+    display: block;
+    margin: 20px;
+  }
+  .staff-image{
+    
+  }
+  
+}

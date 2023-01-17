@@ -29,6 +29,7 @@ import React from "react";
           <img
             src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGFuaW1lJTIwY2hhcmFjdGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
             alt="44"
+            
           />
         </div>
       </div>
